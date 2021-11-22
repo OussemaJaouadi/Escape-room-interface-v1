@@ -1,0 +1,17 @@
+.first{
+    padding-top: 90px;
+}
+.seconnd{
+    padding-top: 40px;
+}
+.accordion-button{
+    color: red;
+}
+.final-imag{
+    height: 300px;
+    width: 100%;
+    background-image: url("../../images/final.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

@@ -1,0 +1,10 @@
+.container{
+    padding-top: 100px;
+}
+.table-red th{
+    background-color: rgba(207, 6, 6, 0.897)!important;
+}
+.fulldark{
+    color:black;
+    border-color: rgba(20,20, 20, 0.95);
+}

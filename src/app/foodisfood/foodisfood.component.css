@@ -1,0 +1,22 @@
+.container-food{
+    padding-top: 150px;
+}
+.food{
+    height: 250px;
+    width: 100%;
+    background-image: url("../../images/food_is_food.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.modal-content{
+    background-color:black;
+    color: white;
+}
+.alert{
+    width: 500px;
+}
+ul li{
+    font-size: 20px;
+}
